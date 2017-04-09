@@ -1,0 +1,21 @@
+{
+  "name": "angtyp",
+  "description": "angular 1.5 typescript",
+  "main": "index.js",
+  "authors": [
+    "rajhseg <rajhseg@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
